@@ -1,4 +1,4 @@
-# crud-book-mobile-app-android
+# Book Management/Library App - Jetpack Compose Version
 
 This project contains a mobile aggregation application specifically for managing read books. It allows adding book entries to its database, opening them in a separate menu and modifying their entries in the application display. The application has a Material user interface, and it is written in Kotlin, using Jetpack Compose.
 
